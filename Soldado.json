@@ -1,7 +1,7 @@
 {
-	"nombre" : "Simon"
-	"apellido" : "Riley"
-	"tipoSangre" : "O+"
-	"sexo" : "M"
+	"nombre" : "Simon",
+	"apellido" : "Riley",
+	"tipoSangre" : "O+",
+	"sexo" : "M",
 	"rango" : "Teniente"
 }
